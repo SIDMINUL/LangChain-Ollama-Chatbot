@@ -1,11 +1,6 @@
 langchain
 langchain-core
 langchain-ollama
-langchain-groq
-langserve
-fastapi
-uvicorn
+langsmith
 python-dotenv
 streamlit
-requests
-sse-starlette
